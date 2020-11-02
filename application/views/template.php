@@ -134,7 +134,7 @@
                 <div class="container">
                     <nav>
                         <p class="copyright text-center">
-                            &copy; 2019 <a href="http://indoexpress.co.id">Indoexpress</a>
+                            &copy; 2020
                         </p>
                     </nav>
                 </div>
